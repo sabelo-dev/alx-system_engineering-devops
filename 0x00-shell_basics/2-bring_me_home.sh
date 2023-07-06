@@ -1,2 +1,1 @@
-home_dir = 
-cd 
+cd /root
