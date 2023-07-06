@@ -1,0 +1,3 @@
+source_path=/bin/ls
+destination_path=./__ls__
+ln -s  
