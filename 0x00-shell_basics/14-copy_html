@@ -1,0 +1,3 @@
+source_directory=/root/0x00-shell_basics
+destination_directory=.
+find  -name *.html -type f -newer  -exec cp -u {}  \;
